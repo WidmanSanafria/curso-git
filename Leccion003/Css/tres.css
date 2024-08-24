@@ -1,0 +1,21 @@
+
+h1{
+    color: #1fbc26;
+    text-align: center;
+    text-transform: uppercase;
+
+}
+a:link{
+    color: #1fb5bc;
+    text-decoration: none;
+    font-size: 20px;
+}
+a:visited{
+    color: #00baa1;
+    text-decoration: none;
+    font-size: 20px;
+}
+a:hover{
+    color: #1fbc26;
+    text-transform: uppercase;
+}
